@@ -7,6 +7,8 @@
 
 The ``Golonka\BBCodeParser`` package will help you with parsing BBCode.
 
+This is a fork of the abandoned project.
+
 ## Install
 
 Via Composer

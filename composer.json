@@ -2,7 +2,7 @@
     "name": "erikwestlund/bbcodeparser",
     "description": "Parse your BBCode easy with this library.",
     "keywords": ["bbcode", "parser", "laravel", "psr-1", "psr-2", "psr-4"],
-    "homepage": "http://github.com/erikwestlund/bbcodeparser",
+    "homepage": "https://github.com/erikwestlund/bbcodeparser",
     "type": "library",
     "license": "MIT",
     "authors": [
